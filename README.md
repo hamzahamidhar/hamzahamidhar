@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Hamza 👋
 
-<!--
-**hamzahamidhar/hamzahamidhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Computer Science student at the **University of Liverpool**,
+interested in **AI and cybersecurity**.
 
-Here are some ideas to get you started:
+Looking for a **12-month industry placement starting Summer 2027**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Building a phishing URL detector in Python (repo coming soon)
+- Peer Mentor, Department of Computer Science
+- Treasurer and Aerospace Lead, Liverpool Hyperloop Society
+
+### Tech
+`Python` `Java` `SQL` `HTML/CSS`
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/hamzahamidhar) · [Email](mailto:your-cv-email)
