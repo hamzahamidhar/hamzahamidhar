@@ -6,7 +6,7 @@ interested in **AI and cybersecurity**.
 Looking for a **12-month industry placement starting Summer 2027**.
 
 ### Currently
-- Building a phishing URL detector in Python (repo coming soon)
+- Building a phishing URL detector in Python (https://github.com/hamzahamidhar/phishing-detector.git)
 - Peer Mentor, Department of Computer Science
 - Treasurer and Aerospace Lead, Liverpool Hyperloop Society
 
