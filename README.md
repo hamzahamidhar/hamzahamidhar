@@ -9,7 +9,7 @@ Looking for a **12-month industry placement starting Summer 2027**.
 - Built a [phishing URL detector](https://github.com/hamzahamidhar/phishing-detector) in Python
 - Built a [fraud detection service](https://github.com/hamzahamidhar/fraud-detection-service) in Java and Spring Boot
 - Peer Mentor, Department of Computer Science
-- Course Rep (G403, Department of Computer Science
+- Course Rep (G403, Department of Computer Science)
 
 ### Tech
    `Python` `Java` `SQL` `HTML/CSS` `scikit-learn` `Flask` `Git` `Spring Boot` `JUnit`
